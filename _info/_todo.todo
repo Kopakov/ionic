@@ -1,0 +1,14 @@
+Run in browser:
+ionic serve
+
+Run iOS xCode:
+npx cap open ios
+npx cap run ios
+
+iOS Live reload:
+ionic cap run ios -l --external
+
+feat: Learn Ionic
+
+Add npm packages to run on iOS.
+Add commands in info/_todo.
